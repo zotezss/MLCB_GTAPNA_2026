@@ -25,6 +25,19 @@ Classe [troca_devolucao]: 47.46%
 # Para a entrega completa deste LAB02 você precisa copiar a saída do código (output) e adicionar as repostas das perguntas abaixo:
 # 1 - Avaliem os resultados e verifiquem se os resultados foram corretos ou incorretos. Coloque a resposta no arquivo do relatório do laboratório R: Correto.
 # 2 - Detectado algum erro, qual seria a maneira mais correta de melhorar o resultado do algoritmo? R: Não tem erro.
-# 3 - Detalhe a função do Naive Bayes no algorítmo. R: Aonde o modelo aprende os exemplos do dataset
+# 3 - Detalhe a função do Naive Bayes no algorítmo. R: Aonde o modelo aprende os exemplos do dataset.
+
+
+--- RESULTADOS DO LAB 03---
+
+# Para a entrega completa deste LAB03 você precisa colar o código corrigido com os TODOs preenchidos, a acurácia obtida e responder:
+# 1 - Qual foi a acurácia obtida pelo modelo no conjunto de teste e por que, em um dataset tão pequeno (9 exemplos), essa métrica pode ser enganosa? Acurácia do Modelo: 0.00%
+# 2 - Como o modelo de Árvore de Decisão (DecisionTreeClassifier) toma a decisão de separar as intenções do usuário? R: Decide de separar as intenções analisando as palavras presentes nas mensagens.
+# 3 - Qual é o risco de utilizar uma Árvore de Decisão sem limite de profundidade (max_depth) em datasets de texto maiores?
+r: Ela cria divisôes demais para um sistema não é nescessario.
+
+
+
+
 
 
